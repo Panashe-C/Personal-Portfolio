@@ -1,0 +1,48 @@
+# Panashe Chinavamwe - Personal Portfolio
+![alt text](assets/images/live-demo-site/image.png)
+
+This repository contains the source code for Panashe Chinavamwe's personal portfolio website.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This website serves as the online portfolio for Panashe Chinavamwe, a web developer based in Cape Town, South Africa. The portfolio showcases Panashe's skills, experiences, projects, and contact information.
+
+## Features
+
+- About Me: Provides an overview of Panashe's background and expertise.
+- Resume: Details Panashe's education, work experiences, and skills.
+- Portfolio: Showcases Panashe's projects categorized by web design, web development, and web applications.
+- Blog: Features blog posts authored by Panashe.
+- Contact: Offers a contact form for visitors to get in touch with Panashe.
+
+## Installation
+
+To run this website locally, follow these steps:
+
+1. Clone this repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd <project-folder>`
+3. Open the `index.html` file in your web browser.
+
+## Usage
+
+Feel free to explore the different sections of the website to learn more about Panashe Chinavamwe's skills, experiences, and projects. You can also use the contact form to reach out to Panashe directly.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request. 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+For more information about Panashe Chinavamwe, visit [panashechinavamwe.com](https://panashechinavamwe.com).
